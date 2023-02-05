@@ -25,7 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Uma landing Page : Simples rápida e Bonita.
+Uma landing Page : Simples, rápida e Bonita.
 
 
 ---
