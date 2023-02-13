@@ -3,6 +3,11 @@
 <p align="center">
 Uma landing page construida do zero para Gamers.Construi ela para aprimoramento de aprendizado com uso de HTML e CSS. <br/>
 </p>
+<hr>
+<p>Link para Visualizar:<br>
+<a href="https://brunodevbbf.github.io/GamePlayers">Clique Aqui
+</p>
+<hr>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
